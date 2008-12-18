@@ -1,0 +1,7 @@
+The contents of this directory are the xdelta3.0u package, downloaded from
+
+   http://xdelta.googlecode.com/files/xdelta3.0u.tar.gz
+
+on 12 Oct 2008.  I added the Android.mk file and this README.android
+file to the directory; nothing else has been touched.
+
