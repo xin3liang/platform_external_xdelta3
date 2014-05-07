@@ -15,7 +15,6 @@ xdelta3_cflags := \
 
 include $(CLEAR_VARS)
 
-LOCAL_LDLIBS += -lm
 LOCAL_CFLAGS += $(xdelta3_cflags)
 LOCAL_SRC_FILES := xdelta3.c
 LOCAL_C_INCLUDES:= $(LOCAL_PATH)/
